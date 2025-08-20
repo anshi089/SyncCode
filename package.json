@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-     "next": "14.2.25",
     "@clerk/nextjs": "^6.28.1",
     "@monaco-editor/react": "^4.7.0",
     "@radix-ui/react-avatar": "^1.1.10",
